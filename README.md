@@ -15,4 +15,4 @@ I was born in 2003 and right now I'm living in Barcelona, Spain.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bypalacios&layout=compact)
 ## Look at me! 👀
-<img src="https://img.shields.io/badge/pau_palaciios%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/bypalacios%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/sutypalacios%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/pau_palaciios%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/sutypalacios%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/palaus%209999%20-%239146FF.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
