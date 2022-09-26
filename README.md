@@ -1,4 +1,4 @@
-# Hi! I'm Pau Palacios! 👋🏻
+# Hi! I'm Pau Palacios! Spanish Beginner Developer👋🏻
 
 I was born in 2003 and right now I'm living in Barcelona, Spain.
 ## Official Education 👨🏻‍🎓
