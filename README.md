@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **.NET, JS, React, FireBase, MongoDB, C#, C++, Java**
 
-- 👨‍💻 All of my projects are available at [soon...](soon...)
+- 👨‍💻 All of my projects are available at soon...
 
-- 📽️ I regularly post videos on [youtube](youtube)
+- 📽️ I regularly post videos on [youtube](https://www.youtube.com/c/suty_palaus)
 
 - 📫 How to reach me **paupalacioseso@gmail.com**
 
