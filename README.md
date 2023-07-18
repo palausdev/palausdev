@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sutypalaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sutypalaus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pau palacios gómez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pau palacios gómez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pau-palacios-g%C3%B3mez-650951203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pau palacios gómez" height="30" width="40" /></a>
 <a href="https://instagram.com/paupalaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paupalaus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/suty_palaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suty_palaus" height="30" width="40" /></a>
 <a href="https://discord.gg/palaus#4531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="palaus#4531" height="30" width="40" /></a>
