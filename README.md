@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at soon...
 
-- 📽️ I regularly post videos on [youtube](https://www.youtube.com/c/paupalaus)
+- 📽️ I regularly post videos on [youtube](https://www.youtube.com/@paupalaus)
 
 - 📫 How to reach me **paupalacioseso@gmail.com**
 
