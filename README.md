@@ -1,17 +1,15 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1018818223749210123/1112188438733672558/image_1.png)
 <h1 align="center">Hi 👋, I'm Pau Palacios</h1>
-<h3 align="center">Spanish Junior Developer👋🏻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Spanish Junior Python Developer👋🏻</h3>
 
-- 🔭 I’m currently working on [Tower Defense By RuineTT](https://palaus.itch.io/tower-defense)
+- 🔭 I’m currently working on Sonara App
 
-- 🌱 I’m currently learning **.NET, JS, React, FireBase, MongoDB, C#, C++, Java**
+- 🌱 I’m currently learning ** JS, React, FireBase, MongoDB, Pyhton**
 
 - 👨‍💻 All of my projects are available at soon...
 
-- 📽️ I regularly post videos on [youtube](https://www.youtube.com/@paupalaus)
+- 📽️ I regularly post videos on [youtube](https://www.youtube.com/@palausdev)
 
-- 📫 How to reach me **paupalacioseso@gmail.com**
+- 📫 How to reach me **palaciosgomezpau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
