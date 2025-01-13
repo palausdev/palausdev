@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Pau Palacios</h1>
-<h3 align="center">Spanish Junior Python Developer</h3>
+<h3 align="center">Spanish Junior-Mid Python Developer</h3>
 
 ```python
 class PalausDev():
