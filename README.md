@@ -35,6 +35,6 @@ if __name__ == '__main__':
 <img alt="PalausDev Github Stats" src="https://github-readme-stats.vercel.app/api/?username=palausdev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="PalausDev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palausdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
-### 🔥 Streak Stats
-
-![PalausDev GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=palausdev&theme=tokyonight)
+### 📥 Contact Me
+<a href="https://www.linkedin.com/in/palausdev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/296364142309146625" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
