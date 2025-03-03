@@ -5,7 +5,7 @@ class PalausDev():
     self.name = "Pau Palacios";
     self.username = "PalausDev";
     self.location = "Barcelona, Spain";
-    self.twitter = "@palausdev";
+    self.instagram = "@palaus.dev";
     self.web = "In process";
   
   def __str__(self):
